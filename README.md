@@ -7,7 +7,7 @@ The purpose of this analysis is to see the trend for the total fares by differen
 ![summary dataframe](https://github.com/dilnigar1007/PyBer_Analysis/blob/main/analysis/summary.png)
 Based on the summary chart above, we have the highest number of rides in urban areas, and the lowest number of rides in rural areas. The trend is also the same for the number of drivers. We have the most drivers in the urbans and the least in rural. Due to the high number of rides and drivers in urban areas, total amount of fares collected is the highest in urban. But, since each city type has different fare price, rural turns out to have the highest average fare per ride and average fare per driver. This lowers from rural to suburban to urban. So, urban has the lowest avg. fare for both ride and drivers even though it has the biggest number of drivers and rides.
 
-![Total fares by city type](https://github.com/dilnigar1007/PyBer_Analysis/blob/main/analysis/total%20fares%20by%20city%20type.png)
+![Total fares by city type](https://github.com/dilnigar1007/PyBer_Analysis/blob/main/analysis/PyBer_fare_summary.png)
 These trend lines clearly show that urban has the highest total fare comparing to the other two. 
 
 ## Summary
